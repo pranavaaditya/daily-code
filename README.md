@@ -18,11 +18,7 @@ Each day, I'll:
 
 ---
 
-## 🗂️ Repository Organization
-Here's how the repo is structured:
-- **`Day_01`**: Reverse an array of integers.📝
-- **`Day_02`**: Problem title 📝
-- ...
+
 
 Each folder will contain:
 - **Problem Statement**: A markdown file with the problem description.
