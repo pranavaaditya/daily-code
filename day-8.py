@@ -25,3 +25,7 @@ if __name__ == "__main__":
     A2 = [1, 2]
     B2 = 1
     print(solution.solve(A2, B2))  
+
+Time complexity:O(B), where 𝐵, B is the number of elements to sum.
+
+Space complexity:O(1)
